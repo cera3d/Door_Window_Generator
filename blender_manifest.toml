@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "door_window_generator"
+version = "0.1.1"
+name = "Door Window Generator"
+tagline = "Place windows by clicking walls; openings cut by Boolean"
+maintainer = "CERA <addon@cera3d.net>"
+type = "add-on"
+
+blender_version_min = "5.1.0"
+
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
