@@ -9,7 +9,7 @@ Blenderで、壁をクリックするだけでアルミサッシを置けるア�
 
 ## Download
 
-**[Releases](https://github.com/cera3d/DoorWindowGenerator/releases)** → `Door_Window_Generator_x.x.x_single.zip`
+**[Releases](https://github.com/cera3d/Door_Window_Generator/releases)** → `Door_Window_Generator_x.x.x_single.zip`
 
 The multi-window version (連窓・段窓版, ¥500) is available on [BOOTH](https://cera3d.booth.pm/items/9011209).
 
